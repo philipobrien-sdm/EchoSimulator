@@ -38,6 +38,7 @@ Don't know what to say? The engine analyzes the context and suggests three disti
 
 ### 📚 Rhetorical Library & Fallacy Guard
 Learn the theory behind the practice. The app includes a built-in library of rhetorical devices (Anchoring, Labeling, Mirroring) and common logical fallacies, helping you identify and use them effectively.
+
 <img width="400" height="300" alt="Screenshot 2025-12-06 115412" src="https://github.com/user-attachments/assets/afc0cd46-4f3a-45d1-97f8-3613dbecded0" />
 
 
