@@ -12,6 +12,11 @@ Unlike standard chatbots, EchoSimulator exposes the **hidden internal state** of
 
 ## 🚀 Key Features
 
+<img width="400" height="300" alt="Screenshot 2025-12-06 115348" src="https://github.com/user-attachments/assets/b5c12dd3-a022-441d-8e35-443abd43f827" />
+
+<img width="600" height="300" alt="Screenshot 2025-12-06 115531" src="https://github.com/user-attachments/assets/a40488ce-30e2-4315-b1b4-3b51081b99db" />
+
+
 ### 🎭 Deep Psychological Simulation
 Conversations are driven by detailed persona profiles including specific **triggers, cognitive styles, and hidden agendas**. The AI doesn't just reply; it reacts emotionally based on the history of the interaction.
 
@@ -33,6 +38,8 @@ Don't know what to say? The engine analyzes the context and suggests three disti
 
 ### 📚 Rhetorical Library & Fallacy Guard
 Learn the theory behind the practice. The app includes a built-in library of rhetorical devices (Anchoring, Labeling, Mirroring) and common logical fallacies, helping you identify and use them effectively.
+<img width="400" height="300" alt="Screenshot 2025-12-06 115412" src="https://github.com/user-attachments/assets/afc0cd46-4f3a-45d1-97f8-3613dbecded0" />
+
 
 ### 🔁 Auto vs. Self-Play Modes
 - **Simulation Mode**: You vs. The AI.
